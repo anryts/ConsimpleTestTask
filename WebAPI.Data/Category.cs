@@ -2,5 +2,8 @@
 
 public enum Category
 {
-    
+    Food,
+    Clothes,
+    Electronics,
+    Other
 }
